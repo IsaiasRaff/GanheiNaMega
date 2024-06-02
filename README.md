@@ -15,6 +15,14 @@ Screenshots:
 
 Requisitos
 Android 5.0 (Lollipop) ou superior.
+Instalação
+Clone este repositório:
+
+sh
+git clone --> https://github.com/IsaiasRaff/GanheiNaMega.git
+
+Abra o projeto no Android Studio.
+Compile e execute o aplicativo em um dispositivo ou emulador Android.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 (EN) Mega-Sena Random Number Generator App
@@ -40,7 +48,6 @@ Installation
 Clone this repository:
 
 sh
-git clone https://github.com/your-username/your-repository.git
-
+git clone --> https://github.com/IsaiasRaff/GanheiNaMega.git
 Open the project in Android Studio.
 Build and run the app on an Android device or emulator.
