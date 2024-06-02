@@ -16,9 +16,8 @@ Este é um aplicativo Android desenvolvido para gerar números aleatórios para 
 
 ## Capturas de Tela
 
-![Tela Inicial](screenshots/screenshot1.png)
-![Sorteio Automático](screenshots/screenshot2.png)
-![Histórico de Números](screenshots/screenshot3.png)
+![Tela Inicial](screenshots/sc1.jpg)
+![Sorteio](screenshots/sc2.jpg)
 
 ## Requisitos
 
