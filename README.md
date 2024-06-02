@@ -15,7 +15,7 @@ Este é um aplicativo Android desenvolvido para gerar números aleatórios para 
 2. **Sorteio Manual:** Selecione a opção de sorteio manual e clique no botão para gerar um número por vez.
 
 ## Capturas de Tela
-
+!screenshots/sc1.jpg
 ![Tela Inicial](screenshots/sc1.jpg)
 ![Sorteio](screenshots/sc2.jpg)
 
