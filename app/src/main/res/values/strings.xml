@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mega-Sena - Números da Sorte</string>
+    <string name="title">BOA SORTE!</string>
+    <string name="number_hint">Digite um número entre 6 e 15</string>
+    <string name="number_generator">GERAR NÚMEROS (automático)</string>
+    <string name="end">Developed by I. Rafael</string>
+    <string name="number_generator2">GERAR APENAS 1 NÚMERO (manual)</string>
+    <string name="developed">Developed by I. Rafael</string>
+</resources>
