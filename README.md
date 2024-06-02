@@ -15,8 +15,7 @@ Este é um aplicativo Android desenvolvido para gerar números aleatórios para 
 2. **Sorteio Manual:** Selecione a opção de sorteio manual e clique no botão para gerar um número por vez.
 
 ## Capturas de Tela
-![Tela Inicial](IsaiasRaff/screenshots/sc1.jpg)
-![Sorteio](screenshots/sc2.jpg)
+
 
 ## Requisitos
 
@@ -30,7 +29,7 @@ Este é um aplicativo Android desenvolvido para gerar números aleatórios para 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-(EN) # Mega-Sena Random Number Generator App
+# (EN) Mega-Sena Random Number Generator App
 
 This is an Android app developed to generate random numbers for Mega-Sena lottery bets. With this app, you can choose to automatically generate between 6 to 15 random numbers at once or manually generate one number at a time.
 
