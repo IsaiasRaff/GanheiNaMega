@@ -68,7 +68,7 @@
 
 
     <Button
-        android:id="@+id/btn2"
+        android:id="@+id/btn_gen_only"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
@@ -78,10 +78,10 @@
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txt_result2" />
+        app:layout_constraintTop_toBottomOf="@+id/txt_result_only" />
 
     <TextView
-        android:id="@+id/txt_result2"
+        android:id="@+id/txt_result_only"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
