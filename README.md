@@ -20,8 +20,10 @@ Este é um aplicativo Android desenvolvido para gerar números aleatórios para 
 <img src="https://github.com/IsaiasRaff/GanheiNaMega/assets/145634659/d69687cc-35d9-4546-b9fd-74d0fbb133ad" width="400px" />
 </div>
 
+- Números em ordem crescente:
+
 <div align="center">
-<img src="https://github.com/IsaiasRaff/GanheiNaMega/assets/145634659/3f520dba-48b4-446e-bfd7-f63045a97b5c" width="400px" />
+<img src="https://github.com/IsaiasRaff/GanheiNaMega/assets/145634659/57d83bae-ebdc-4971-a3c3-acf4985d043f" width="400px" />
 </div>
 
 ## Requisitos
@@ -58,8 +60,10 @@ This is an Android app developed to generate random numbers for Mega-Sena lotter
 <img src="https://github.com/IsaiasRaff/GanheiNaMega/assets/145634659/d69687cc-35d9-4546-b9fd-74d0fbb133ad" width="400px" />
 </div>
 
+- Numbers in ascending order:
+  
 <div align="center">
-<img src="https://github.com/IsaiasRaff/GanheiNaMega/assets/145634659/3f520dba-48b4-446e-bfd7-f63045a97b5c" width="400px" />
+<img src="https://github.com/IsaiasRaff/GanheiNaMega/assets/145634659/57d83bae-ebdc-4971-a3c3-acf4985d043f" width="400px" />
 </div>
 
 ## Requirements
