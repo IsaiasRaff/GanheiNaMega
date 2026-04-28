@@ -1,4 +1,4 @@
-package co.tiagoaguiar.ganheinamega
+package co.isaiasraff.ganheinamega
 
 import android.annotation.SuppressLint
 import android.content.Context
