@@ -47,6 +47,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+
     private fun generateAndSaveNumber() {
         val randomNumber = Random.nextInt(1, 61)
 
